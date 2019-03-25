@@ -11,3 +11,6 @@ EOF
 
 sudo rm /data/file/location/Out/*
 #Clean up the out folder
+
+#sudo mv /data/avoshare/Production/Out/* /data/file/location/Sent
+#Alternatively, move the files to another location to keep track of what was sent.
