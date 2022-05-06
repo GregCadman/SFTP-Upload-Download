@@ -8,3 +8,5 @@ Download.sh pulls encrypted files from an outside SFTP server and puts them in a
 contents. 
 
 Both scripts are run on a schedule using cronjobs so the entire process is automated. 
+
+All data has been sanitized. 
